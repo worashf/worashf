@@ -1,5 +1,3 @@
-### Hi there
-
 ### Hi there 👋, I'm Worash Abocherugn
 
 - 🧑🏻‍💻 I am a Full-Stack Developer with a background in Computer Engineering and Computer Networking.
