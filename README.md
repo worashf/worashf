@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I am a Full-Stack Developer with a background in Computer Engineering and Computer Networking.
 - 🤔 I am always eager to learn new technologies.
-- 🤔 I am currently learning Ruby.
+- 🤔 I am currently learning Ruby on Rails.
 - 👀 I know fornt-end development tools and languages, Namely: CSS, HTML, JavaScript, React JS and Redux.
 - 👀 I know back-end development tools and languages, Namely: Java, Ruby, Spring Boot, Node JS and Express JS.
 - 👀 I know database tools and languages, Namely: MySql, Postgesql and MongoDb.
