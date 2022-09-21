@@ -10,7 +10,7 @@
 - 📥 I am open to offers and looking for remote jobs.
 - 📫 People can reach me by email: uppert83@gmail.com.
 
-[![Worash's GitHub stats](https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=ayu-mirage)](https://github.com/worashf/github-readme-stats)
+[![Worash's GitHub stats](https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=ayu-mirage)](https://github.com/worashf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worashf&theme=ayu-mirage&layout=compact)](https://github.com/worashf/github-readme-stats)
 
