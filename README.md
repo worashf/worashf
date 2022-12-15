@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Worash Abocherugn
 
-- 🧑🏻‍💻 I am a  passinate Full-Stack Developer, loving to tech.
+- 🧑🏻💻 I am a  passinate Full-Stack Developer, loving to tech.
 - 👀 I know fornt-end development tools and languages, Namely: CSS, HTML, JavaScript, React JS and Redux.
 - 👀 I know back-end development tools and languages, Namely: Java, Spring Boot, Ruby, Ruby on Rails,  NodeJS and ExpressJS.
 - 👀 I know database tools and languages, Namely: MySQL, PostgeSQL and MongoDb.
