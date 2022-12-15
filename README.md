@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Worash Abocherugn
 
 - 🧑🏻‍💻 I am a Full-Stack Developer with a background in Computer Engineering and Computer Networking.
-- 🤔 I am always eager to learn new technologies.
-- 🤔 I am currently learning Ruby on Rails testing with Rspec.
 - 👀 I know fornt-end development tools and languages, Namely: CSS, HTML, JavaScript, React JS and Redux.
-- 👀 I know back-end development tools and languages, Namely: Java, Ruby, Spring Boot, Node JS and Express JS.
-- 👀 I know database tools and languages, Namely: MySql, Postgesql and MongoDb.
+- 👀 I know back-end development tools and languages, Namely: Java, Spring Boot, Ruby, Ruby on Rails,  NodeJS and ExpressJS.
+- 👀 I know database tools and languages, Namely: MySQL, PostgeSQL and MongoDb.
 - 💞️ I am looking to collaborate on different kinds of software projects to hone my problem-solving skills.
 - 📥 I am open to offers and looking for remote jobs.
+-  🤔 I am always eager to learn new technologies.
 - 📫 People can reach me by email: uppert83@gmail.com.
 
 [![Worash's GitHub stats](https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=ayu-mirage)](https://github.com/worashf)
