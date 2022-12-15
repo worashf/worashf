@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Worash Abocherugn
 
 - 🧑🏻💻 I am a  passinate Full-Stack Developer, loving to tech.
-- 👀 I know fornt-end development tools and languages, Namely: CSS, HTML, JavaScript, React JS and Redux.
-- 👀 I know back-end development tools and languages, Namely: Java, Spring Boot, Ruby, Ruby on Rails,  NodeJS and ExpressJS.
+- 👀 I know fornt-end development tools and languages: CSS, HTML, JavaScript, ReactJS and Redux.
+- 👀 I know back-end development tools and languages: Java, Spring Boot, Ruby, Ruby on Rails,  NodeJS and ExpressJS.
 - 👀 I know database tools and languages, Namely: MySQL, PostgeSQL and MongoDb.
 - 💞️ I am looking to collaborate on different kinds of software projects to hone my problem-solving skills.
 - 📥 I am open to offers and looking for remote jobs.
