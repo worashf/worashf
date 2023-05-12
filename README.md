@@ -27,7 +27,6 @@
 <a href="https://www.postgresql.org/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="PostgreSQL" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.mongodb.com/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   alt="MongoDB" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://nestjs.com/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"   alt="Nest.js" style="max-width:100%;" width="40" height="40"> </a>
-
 </p>
 </div>
 <div style= "display:flex; gap: 3px">
@@ -41,7 +40,6 @@
 <a href="https://nextjs.org/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  alt="next.js" style="max-width:100%;" width="40" height="40"></a>
 <a href="https://redux.js.org/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  alt="redux.js" style="max-width:100%;" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org/docs/" rel="nofollow" target="blank"> <img src="https://dsebastien.gallerycdn.vsassets.io/extensions/dsebastien/vscode-js-ts-pack/1.4.0/1577875928556/Microsoft.VisualStudio.Services.Icons.Default" alt="type-script" style="max-width:100%;" width="40" height="40"> </a>
-
 </p>
 </div>
 
