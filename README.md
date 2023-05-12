@@ -9,9 +9,10 @@
 -  🤔 Evolving and learning new things every day.
 - 📫 People can reach me by email: uppert83@gmail.com.
 
-[![Worash's GitHub stats](https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=ayu-mirage)](https://github.com/worashf)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worashf&theme=ayu-mirage&layout=compact)](https://github.com/worashf)
+<p align="center">
+ <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worashf&show_icons=true&theme=dark&layout=compact" alt="Worash-Abocherugn" />
+</p>
 
 ### 📫 Check me
 
