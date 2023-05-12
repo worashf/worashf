@@ -12,8 +12,7 @@
 <p align="center">
 <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=''> 
  </p>
-<h2 align= "center">🛠 Tech Stack  </h2>
-<div style= "display:flex; gap: 3px">
+<div style= "display:flex; gap: 3px; flex-direction:row">
 <h3 align= "center" style="margin:0 10px">👨🏽‍💻 Backend Tools  </h3>
 <p align="center">
 <a href="https://nodejs.org/en/docs" rel="nofollow" target="blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="max-width:100%;" width="40" height="40"> </a>
@@ -29,7 +28,7 @@
 <a href="https://nestjs.com/" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"   alt="Nest.js" style="max-width:100%;" width="40" height="40"> </a>
 </p>
 </div>
-<div style= "display:flex; gap: 3px">
+<div style= "display:flex; gap: 3px; flex-direction:row">
 <h3 align= "center" style="margin:0 10px">➡️ Frontend Tools  </h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="max-width:40%;" width="40" height="40"></a>
