@@ -40,7 +40,7 @@
 </p>
 </div>
 
-<p align="center">
+<p >
  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=worashf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worashf&show_icons=true&theme=dark&layout=compact" alt="Worash-Abocherugn" />
 </p>
