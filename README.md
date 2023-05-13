@@ -11,8 +11,8 @@
 
 
 <div style= "display:flex; gap: 3px; flex-direction:row">
-<h3 align= "center" style="margin:0 10px">👨🏽‍💻 Backend Tools  </h3>
-<p align="center">
+<h3  style="margin:0 10px">👨🏽‍💻 Backend Tools  </h3>
+<p >
 <a href="https://nodejs.org/en/docs" rel="nofollow" target="blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.java.com/en/" target="blank" rel="nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="max-width:100%;" width="40" height="40"> </a>
@@ -27,8 +27,8 @@
 </p>
 </div>
 <div style= "display:flex; gap: 3px; flex-direction:row">
-<h3 align= "center" style="margin:0 10px">➡️ Frontend Tools  </h3>
-<p align="center">
+<h3  style="margin:0 10px">➡️ Frontend Tools  </h3>
+<p >
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="max-width:40%;" width="40" height="40"></a>
 <a href="https://getbootstrap.com" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40"></a>
