@@ -9,9 +9,7 @@
 -  🤔 Evolving and learning new things every day.
 - 📫 People can reach me by email: uppert83@gmail.com.
 
-<p align="center">
-<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=''> 
- </p>
+
 <div style= "display:flex; gap: 3px; flex-direction:row">
 <h3 align= "center" style="margin:0 10px">👨🏽‍💻 Backend Tools  </h3>
 <p align="center">
